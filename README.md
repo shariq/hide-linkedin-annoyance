@@ -1,2 +1,4 @@
 # hide-linkedin-annoyance
-simple JS to use with CJS Chrome extension to view LinkedIn profiles without registering
+A simple JS script to bypass annoying modals when viewing LinkedIn profiles
+
+Combine it with this Chrome extension so it works every time: https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija
